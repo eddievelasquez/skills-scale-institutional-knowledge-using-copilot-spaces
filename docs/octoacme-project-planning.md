@@ -15,6 +15,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. UX Designer: Create design artifacts and user flows
+8. Business Analyst: Document functional requirements and validation criteria
+9. DevOps Engineer: Plan infrastructure, deployment strategy, and monitoring
+10. Customer Success Manager: Share customer feedback and expectations
 
 ## Backlog Item Template
 - Title:
