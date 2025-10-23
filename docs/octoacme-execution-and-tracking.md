@@ -22,6 +22,10 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- UX Designer: Conduct usability testing and validate design implementation
+- DevOps Engineer: Monitor deployment pipelines and infrastructure health
+- Business Analyst: Validate features against business requirements
+- Customer Success Manager: Gather early feedback from pilot customers
 
 ## Reporting & Metrics
 - Track velocity and burndown
